@@ -90,7 +90,7 @@ function App() {
               }`} />
               <h1 className={`font-bold text-gray-800 transition-all duration-300 ${
                 isScrolled ? 'text-xl' : 'text-2xl'
-              }`}>علمي تاكوس</h1>
+              }`}>عالمي </h1>
             </div>
 
             <div className="hidden md:flex gap-8 items-center">
