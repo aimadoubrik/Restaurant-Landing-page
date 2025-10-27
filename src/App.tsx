@@ -137,8 +137,8 @@ function App() {
               </div>
 
               <h1 className="text-6xl md:text-8xl font-black leading-tight">
-                علمي
-                <span className="block text-yellow-300">تاكوس</span>
+                طاكوس
+                <span className="block text-yellow-300">عالمي</span>
               </h1>
 
               <p className="text-2xl md:text-3xl leading-relaxed font-semibold text-orange-50">
