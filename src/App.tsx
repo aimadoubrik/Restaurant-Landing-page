@@ -214,15 +214,15 @@ function App() {
               <div className="grid grid-cols-3 gap-6 pt-8">
                 <div className="text-center bg-white/10 backdrop-blur-sm rounded-2xl p-4">
                   <div className="text-3xl font-black text-yellow-300">1000+</div>
-                  <div className="text-white font-bold mt-2 text-sm">عميل سعيد</div>
+                  <div className="text-white font-bold mt-2 text-sm lg:text-black">عميل سعيد</div>
                 </div>
                 <div className="text-center bg-white/10 backdrop-blur-sm rounded-2xl p-4">
                   <div className="text-3xl font-black text-yellow-300">4.9</div>
-                  <div className="text-white font-bold mt-2 text-sm">تقييم العملاء</div>
+                  <div className="text-white font-bold mt-2 text-sm lg:text-black">تقييم العملاء</div>
                 </div>
                 <div className="text-center bg-white/10 backdrop-blur-sm rounded-2xl p-4">
                   <div className="text-3xl font-black text-yellow-300">50+</div>
-                  <div className="text-white font-bold mt-2 text-sm">طبق مميز</div>
+                  <div className="text-white font-bold mt-2 text-sm lg:text-black">طبق مميز</div>
                 </div>
               </div>
             </div>

@@ -26,7 +26,7 @@ export default function ContactPage({ onBack }: ContactPageProps) {
                               <div className="flex justify-between items-center">
                                     <div className="flex items-center gap-2">
                                           <Flame className="w-8 h-8 text-orange-500" />
-                                          <h1 className="text-2xl font-bold text-gray-800">علمي تاكوس</h1>
+                                          <h1 className="text-2xl font-bold text-gray-800"> عالمي</h1>
                                     </div>
                                     <button
                                           onClick={onBack}
